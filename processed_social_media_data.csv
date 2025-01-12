@@ -1,0 +1,101 @@
+User1,User2,Interaction_Type,Timestamp,Message,Interaction_Type_Encoded
+Frank,Ivy,Like,1/3/2025 7:47,Nice insight!,0
+Hannah,Alice,Follow,1/2/2025 5:22,Love it!,1
+Frank,Ivy,Mention,1/2/2025 17:52,Following you now.,2
+David,Eve,Like,1/2/2025 9:18,Happy to connect.,0
+Charlie,Ivy,Comment,1/3/2025 10:28,Amazing content!,3
+Bob,Alice,Follow,1/1/2025 1:13,Inspirational!,1
+David,Charlie,Comment,1/1/2025 8:50,Happy to connect.,3
+Eve,David,Mention,1/2/2025 3:59,Brilliant work!,2
+Grace,Bob,Share,1/3/2025 22:57,Check this out!,4
+Hannah,David,Comment,1/1/2025 22:42,Great post!,3
+Ivy,Eve,Comment,1/2/2025 8:58,"Very useful, thanks!",3
+Charlie,Alice,Follow,1/2/2025 8:51,Fantastic idea!,1
+Hannah,Frank,Comment,1/1/2025 19:21,Fantastic idea!,3
+Jack,Grace,Share,1/2/2025 16:19,Happy to connect.,4
+Bob,Frank,Mention,1/2/2025 23:38,Excellent content!,2
+Alice,Eve,Mention,1/3/2025 2:02,Inspirational!,2
+Jack,Hannah,Share,1/3/2025 4:47,Fantastic idea!,4
+Grace,Frank,Like,1/2/2025 3:32,Great post!,0
+Alice,Bob,Comment,1/3/2025 3:26,Excellent content!,3
+Grace,Alice,Mention,1/2/2025 9:03,Excellent content!,2
+Bob,David,Share,1/1/2025 21:35,Interesting thought.,4
+Bob,Frank,Share,1/2/2025 14:05,Keep it up!,4
+Grace,Bob,Comment,1/3/2025 3:54,Excellent content!,3
+Hannah,Ivy,Share,1/2/2025 16:53,Fantastic idea!,4
+Frank,Grace,Mention,1/1/2025 21:14,Inspirational!,2
+Grace,Jack,Follow,1/2/2025 2:10,Nice insight!,1
+Ivy,Alice,Share,1/1/2025 9:11,Inspirational!,4
+Grace,Alice,Comment,1/3/2025 10:03,Happy to connect.,3
+Eve,Jack,Share,1/1/2025 1:58,Excellent content!,4
+Ivy,Alice,Share,1/3/2025 21:03,Check this out!,4
+Hannah,Grace,Follow,1/2/2025 14:26,Interesting thought.,1
+Charlie,Bob,Like,1/3/2025 18:34,Excellent content!,0
+Grace,Eve,Like,1/3/2025 18:48,Check this out!,0
+Charlie,Ivy,Mention,1/3/2025 13:14,Following you now.,2
+Frank,Ivy,Follow,1/2/2025 14:33,Check this out!,1
+Charlie,Alice,Mention,1/1/2025 15:14,Thanks for sharing!,2
+Bob,Frank,Comment,1/3/2025 15:52,Excellent content!,3
+Alice,Grace,Follow,1/3/2025 23:25,Keep it up!,1
+Bob,Jack,Like,1/1/2025 13:53,Following you now.,0
+Frank,Alice,Follow,1/2/2025 11:24,Keep it up!,1
+Frank,Hannah,Like,1/2/2025 22:06,Interesting thought.,0
+Alice,Hannah,Mention,1/1/2025 3:04,Nice insight!,2
+Alice,Frank,Follow,1/3/2025 9:15,Amazing content!,1
+Hannah,Charlie,Comment,1/2/2025 15:08,Happy to connect.,3
+Eve,Bob,Like,1/3/2025 20:26,Nice insight!,0
+David,Eve,Share,1/3/2025 5:46,Great post!,4
+Bob,Hannah,Comment,1/3/2025 22:45,Check this out!,3
+Bob,Frank,Like,1/1/2025 7:41,"Very useful, thanks!",0
+David,Hannah,Follow,1/3/2025 0:13,Happy to connect.,1
+Charlie,Jack,Follow,1/1/2025 8:20,Inspirational!,1
+Grace,Alice,Mention,1/2/2025 13:51,Nice insight!,2
+Hannah,Frank,Mention,1/3/2025 14:50,"Very useful, thanks!",2
+Grace,Bob,Follow,1/2/2025 18:15,Inspirational!,1
+Bob,Charlie,Like,1/3/2025 15:38,Happy to connect.,0
+David,Eve,Like,1/2/2025 15:26,Excellent content!,0
+Eve,Bob,Follow,1/1/2025 11:15,Keep it up!,1
+Jack,Alice,Mention,1/3/2025 4:24,Nice insight!,2
+Grace,Jack,Mention,1/1/2025 8:22,Check this out!,2
+Jack,Bob,Follow,1/3/2025 13:38,Amazing content!,1
+Ivy,Jack,Follow,1/2/2025 9:52,Happy to connect.,1
+David,Alice,Mention,1/3/2025 16:08,Excellent content!,2
+Hannah,Eve,Comment,1/1/2025 13:50,Thanks for sharing!,3
+David,Ivy,Follow,1/1/2025 21:49,Great post!,1
+Grace,Bob,Share,1/3/2025 16:20,Amazing content!,4
+Jack,David,Comment,1/3/2025 14:42,Great post!,3
+Grace,Ivy,Comment,1/3/2025 20:00,Great post!,3
+Bob,Charlie,Comment,1/2/2025 13:26,Interesting thought.,3
+Jack,Eve,Comment,1/3/2025 21:12,Great post!,3
+Hannah,David,Follow,1/1/2025 14:42,Great post!,1
+Alice,Bob,Mention,1/2/2025 0:31,Happy to connect.,2
+Jack,Hannah,Share,1/3/2025 13:18,Inspirational!,4
+Bob,Frank,Follow,1/3/2025 13:53,Interesting thought.,1
+Hannah,Eve,Follow,1/1/2025 16:32,Keep it up!,1
+Alice,Grace,Share,1/2/2025 9:33,Keep it up!,4
+Grace,Eve,Mention,1/2/2025 11:04,"Very useful, thanks!",2
+Alice,Ivy,Follow,1/1/2025 17:53,Excellent content!,1
+Bob,Alice,Mention,1/1/2025 7:46,Keep it up!,2
+Frank,Hannah,Comment,1/3/2025 7:38,Nice insight!,3
+Hannah,Eve,Share,1/1/2025 16:19,Following you now.,4
+Bob,Grace,Follow,1/3/2025 21:44,Love it!,1
+Jack,Ivy,Mention,1/2/2025 15:23,Following you now.,2
+Ivy,Hannah,Comment,1/2/2025 8:30,Amazing content!,3
+Grace,Frank,Like,1/1/2025 11:59,Fantastic idea!,0
+Charlie,Bob,Like,1/3/2025 8:24,Interesting thought.,0
+Frank,Bob,Share,1/3/2025 1:40,Inspirational!,4
+Grace,Ivy,Follow,1/2/2025 2:49,Amazing content!,1
+Charlie,Eve,Follow,1/2/2025 12:36,"Very useful, thanks!",1
+Eve,Alice,Mention,1/3/2025 7:09,Amazing content!,2
+Alice,Charlie,Like,1/3/2025 1:32,Happy to connect.,0
+Jack,Charlie,Mention,1/2/2025 9:36,Happy to connect.,2
+Ivy,David,Follow,1/1/2025 9:59,Excellent content!,1
+Bob,Eve,Comment,1/2/2025 22:58,Interesting thought.,3
+Bob,Grace,Like,1/3/2025 14:32,Interesting thought.,0
+Charlie,Frank,Mention,1/3/2025 17:51,Check this out!,2
+Eve,Bob,Mention,1/2/2025 9:06,Love it!,2
+Ivy,Jack,Follow,1/1/2025 17:55,Nice insight!,1
+Bob,Grace,Follow,1/1/2025 18:46,Thanks for sharing!,1
+Grace,Bob,Comment,1/3/2025 20:26,Love it!,3
+Frank,David,Follow,1/2/2025 18:06,Thanks for sharing!,1
+Alice,Grace,Follow,1/3/2025 6:30,Thanks for sharing!,1
